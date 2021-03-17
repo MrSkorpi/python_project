@@ -1,2 +1,3 @@
-#код
-print("Hello World!")
+#код, измененный локально
+#код добавлен локально
+print("Hello local World!")
